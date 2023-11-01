@@ -5,6 +5,8 @@ AI-Powered Spam Classifier
 Project Overview:
 This project is an AI-powered spam classifier that uses the Naive Bayes algorithm to classify messages as spam or non-spam. The project is divided into four phases: Ideation, Design and Innovation, Development, and Model Training.
 
+Dataset Source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 Phase 1: Ideation Phase
 Problem Statement: In this phase, we defined the problem statement, which is to develop a spam classifier.
 Design Thinking: We brainstormed and conceptualized the project, considering design and innovation strategies.
@@ -21,7 +23,6 @@ Platform:
 We ran the colab notebook in Google Colab.
 Dependencies: 
 Imported necessary libraries.
-
 Dataset:
  Loaded and explored the dataset.
 
@@ -48,7 +49,6 @@ Running the Code:
 To run this code, follow these steps:
 Clone the GitHub repository to your local machine:
 
-Copy code
 git clone https://github.com/yourusername/ai-spam-classifier.git
 Open the project folder in your Google colab Notebook environment (e.g., Google Colab).
 
@@ -62,9 +62,15 @@ Dependencies:
 The following dependencies are required to run this project:
 
 Python (>=3.6)
+
 Google colab Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 NLTK
+
 Scikit-learn
